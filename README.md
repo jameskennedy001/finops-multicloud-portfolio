@@ -290,7 +290,7 @@ finops-multicloud-portfolio/
 
 **James Kennedy**  
 Strategic Program Professional | FinOps Certified Practitioner  
-[LinkedIn](#) | [Email](#) | [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/james-kennedy-28a28525) | [Email](jameskennedy001@gmail.com) | [Portfolio](https://github.com/jameskennedy001)
 
 **Certifications:**
 - FinOps Certified Practitioner
