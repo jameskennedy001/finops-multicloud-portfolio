@@ -138,6 +138,22 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 - Teams proactively identifying optimizations
 - Behavior shift: Reactive → Proactive
 
+### Sustainability & Environmental Impact
+
+**Carbon Footprint Reduction:**
+- 18% cost efficiency improvement correlates to ~15-18% carbon emission reduction
+- Rightsizing eliminated unnecessary compute resources
+- Storage lifecycle policies reduced data center energy consumption
+- Reserved Instance strategy improved resource utilization efficiency
+
+**Approach:**
+- Tracked cloud region renewable energy percentages
+- Prioritized efficient instance types (Graviton, AMD EPYC)
+- Workload scheduling during low-carbon grid hours where feasible
+- Quarterly sustainability metrics reported to leadership
+
+**Result:** Cloud efficiency gains directly support corporate sustainability goals without compromising growth.
+
 ---
 
 ## 📁 Repository Structure
@@ -279,12 +295,13 @@ Strategic Program Professional | FinOps Certified Practitioner
 **Certifications:**
 - FinOps Certified Practitioner
 - MIT Executive Certificate in AI Strategy & Product Innovation
+- Google Generative AI Leader; Microsoft Certified: Azure AI 900; Renewable Energy Management & Finance (Galileo Master Certificate)
 
 **Experience Highlights:**
 - 15+ years infrastructure and program management
 - Former Chief Registry Officer, RIPE NCC (€9.6M budget, 40+ staff)
-- Managed €1.25B+ digital asset portfolios at Liberty Global
-- Expertise: IP address management, internet governance, cloud infrastructure
+- Managed €1.25B+ digital asset portfolio at Liberty Global; Tech Business Developer at Amazon Web Services
+- Expertise: IP address management, cloud infrastructure, internet governance 
 
 ---
 
