@@ -20,10 +20,10 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 - ✅ **Cultural transformation** - Teams moved from reactive to proactive cost management
 
 **What makes this portfolio unique:**
-- Demonstrates **strategic FinOps thinking**, not just technical optimization
+- Demonstrates **strategic FinOps thinking**, not just technical optimisation
 - Shows **realistic transformation journey** with challenges and trade-offs
-- Emphasizes **business enablement** over cost cutting
-- Applies **FinOps Framework** (Inform → Optimize → Operate phases)
+- Emphasises **business enablement** over cost cutting
+- Applies **FinOps Framework** (Inform → Optimise → Operate phases)
 - Tracks **capability maturity** across multiple domains (Crawl → Walk → Run)
 
 ---
@@ -64,7 +64,7 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
    - 5% Reserved Instance coverage (industry average: 40-50%)
    - No storage lifecycle policies
    - Teams operating in silos
-   - **Impact:** ~$600k optimization opportunity
+   - **Impact:** ~$600k optimisation opportunity
 
 3. **Lack of Visibility**
    - Finance sees bills, Engineering doesn't
