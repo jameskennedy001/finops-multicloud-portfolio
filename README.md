@@ -70,7 +70,7 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
    - Finance sees bills, Engineering doesn't
    - Cost spikes discovered 2-3 weeks after occurrence
    - No showback or team ownership
-   - **Impact:** No incentive to optimize
+   - **Impact:** No incentive to optimise
 
 ### Phase 2: FinOps Implementation (Q1-Q4 2024)
 
@@ -81,7 +81,7 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 - Built team cost dashboards
 - Quick wins: $30k/month idle resources eliminated
 
-**Q2: OPTIMIZE - Team Enablement**
+**Q2: OPTIMISE - Team Enablement**
 - Delivered 3 FinOps workshops (125 attendees)
 - Implemented showback (teams see monthly spending)
 - Launched RI strategy (25% coverage achieved)
@@ -93,7 +93,7 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 - Storage lifecycle policies (7% reduction)
 - RI coverage: 25% → 30%
 - Tag compliance: v2.2 standard introduced (business tags)
-- Teams proactively optimizing
+- Teams proactively optimising
 
 **Q4: MATURE - Sustained Discipline**
 - RI coverage: 35% achieved (Run maturity)
@@ -135,7 +135,7 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 **Cultural Transformation:**
 - 100% team participation in monthly cost reviews
 - Cost owners appointed per team (accountability)
-- Teams proactively identifying optimizations
+- Teams proactively identifying optimisations
 - Behavior shift: Reactive → Proactive
 
 ### Sustainability & Environmental Impact
@@ -144,11 +144,11 @@ This portfolio demonstrates a complete **FinOps transformation** at TechCorp, a 
 - 18% cost efficiency improvement correlates to ~15-18% carbon emission reduction
 - Rightsizing eliminated unnecessary compute resources
 - Storage lifecycle policies reduced data center energy consumption
-- Reserved Instance strategy improved resource utilization efficiency
+- Reserved Instance strategy improved resource utilisation efficiency
 
 **Approach:**
 - Tracked cloud region renewable energy percentages
-- Prioritized efficient instance types (Graviton, AMD EPYC)
+- Prioritised efficient instance types (Graviton, AMD EPYC)
 - Workload scheduling during low-carbon grid hours where feasible
 - Quarterly sustainability metrics reported to leadership
 
@@ -176,7 +176,7 @@ finops-multicloud-portfolio/
 │   ├── 1_baseline_assessment.ipynb      # Problem identification
 │   ├── 2_finops_implementation.ipynb    # Transformation journey
 │   ├── data_verification.png            # Verification charts
-│   └── transformation_results.png       # Key results visualization
+│   └── transformation_results.png       # Key results visualisation
 └── README.md                    # This file
 ```
 
@@ -186,7 +186,7 @@ finops-multicloud-portfolio/
 
 ### FinOps Framework Application
 - **Inform Phase:** Cost visibility, allocation, reporting
-- **Optimize Phase:** Rate optimization (RIs), usage optimization (rightsizing)
+- **Optimise Phase:** Rate optimisation (RIs), usage optimisation (rightsizing)
 - **Operate Phase:** Continuous improvement, team engagement
 
 ### FinOps Principles
@@ -194,7 +194,7 @@ finops-multicloud-portfolio/
 - ✅ **Everyone takes ownership** - Cost owners per team
 - ✅ **Decisions driven by business value** - Unit economics tracked
 - ✅ **Reports accessible & timely** - 24h anomaly alerts
-- ✅ **Centralized team drives FinOps** - Dedicated leadership
+- ✅ **Centralised team drives FinOps** - Dedicated leadership
 - ✅ **Take advantage of variable cost** - Rightsizing, auto-scaling
 
 ### Capability Maturity (Crawl → Walk → Run)
@@ -228,7 +228,7 @@ finops-multicloud-portfolio/
 → **Solutions:** Stakeholder engagement, showing value not control  
 
 ### Recommendations for Practitioners
-1. **Start with visibility** - Can't optimize what you can't see
+1. **Start with visibility** - Can't optimise what you can't see
 2. **Engage teams early** - Education drives adoption
 3. **Quick wins matter** - Build credibility and momentum
 4. **Connect to business** - Revenue, customers, not just costs
@@ -252,7 +252,7 @@ finops-multicloud-portfolio/
 - Anomaly detection
 - Forecasting & budgeting
 
-### Data Analysis & Visualization
+### Data Analysis & Visualisation
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebooks (interactive analysis)
 - Data modeling (2 years, 60k+ records)
